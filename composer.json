@@ -1,0 +1,10 @@
+{
+    "name": "compound_fields/compound_fields",
+    "description": "A selection of compound (grouped) fields for use with Drupal.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=8.3",
+        "drupal/core": "^11.0 || ^12.0"
+    }
+}

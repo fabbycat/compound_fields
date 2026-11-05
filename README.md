@@ -1,2 +1,3 @@
-# compound_fields
-A collection of compound fields for Drupal
+# Compound Fields
+
+A selection of compound (grouped) fields for use with Drupal.
