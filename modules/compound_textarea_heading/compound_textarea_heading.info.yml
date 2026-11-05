@@ -1,0 +1,17 @@
+name: 'Compound Field: Textarea & Heading'
+machine_name: 'compound_textarea_heading'
+description: 'A compound field with a textarea and heading for use with Drupal.'
+# lifecycle:
+# lifecycle_link:
+# project status url:
+package: Content types
+type: module
+core_version_requirement:  ^11 || ^12
+php: 8.5
+dependencies:
+  - compound_fields:compound_fields
+# test_dependencies:
+# configure:
+# configure_parameters:
+# hidden:
+# required:
